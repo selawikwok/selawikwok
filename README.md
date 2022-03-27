@@ -37,9 +37,14 @@
 
 ------
 
+### Github Stats 🚀
+
+<p align="center"><a href="https://github.com/selawikwok"><img src="https://github-readme-stats.vercel.app/api?username=selawikwok&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/selawikwok"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selawikwok&theme=radical&layout=compact"></a></p> 
+
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=riychuhuy&repo=Elaina-Bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=riychuhuy&repo=riychgames.github.io&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=selawikwok&repo=Keyol-Bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=selawikwok&repo=Keyolbot-Md&theme=nightowl)
 
 
 <p align="center">
