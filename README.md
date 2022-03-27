@@ -15,11 +15,11 @@
 ------
 ### Connect with me ☎️
 <p align="center">
-  <a href="https://instagram.com/shelaaa817"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/qr/6281995944283"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a name=Keyols&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/Keyols"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Keyols&color=green&style=flat-square&label=Profile+View"></a>
+  <a href="https://instagram.com/fatih_arridho"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/qr/ZJHQYKI4VOPDC1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a name=FatihArridho&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://github.com/fatiharridho"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fatiharridho&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 
 ### Playing A Game Mobile Legends 🎮
@@ -36,11 +36,6 @@
 </p>
 
 ------
-
-### Github Stats 🚀
-
-<p align="center"><a href="https://github.com/Keyols"><img src="https://github-readme-stats.vercel.app/api?username=Keyols&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/Keyols"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keyols&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=riychuhuy&repo=Elaina-Bot&theme=dark)
